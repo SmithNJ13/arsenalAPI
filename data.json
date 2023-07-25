@@ -1,8 +1,21 @@
 [
     {
-        "playerName":{
+        "example name":{
             "age": 25,
-            "goals": 7
+            "number": 7
+        },
+        "premier-league-record": {
+            "goals": 3
+        }
+    },
+
+    {
+        "example name 2":{
+            "age": 33,
+            "number": 10
+        },
+        "premier-league-record": {
+            "goals": 8
         }
     }
 ]
