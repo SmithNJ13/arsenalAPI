@@ -193,22 +193,22 @@
     },
     {
         "name": "Martin Ødegaard",
-        "position": "",
-        "number": ,
+        "position": "Midfielder",
+        "number": 8,
         "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
+            "nationality": "Norway",
+            "date of birth": "17/12/1998",
+            "height": "178cm"
         },
         "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
+            "appearances": 87,
+            "clean sheets": "n/a",
+            "goals": 23,
+            "assists": 13
         }
     },
     {
-        "name": "",
+        "name": "Emile Smith Rowe",
         "position": "",
         "number": ,
         "personal details" :{
