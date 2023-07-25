@@ -202,13 +202,157 @@
         },
         "premier league record": {
             "appearances": 87,
-            "clean sheets": "n/a",
+            "clean sheets": "N/A",
             "goals": 23,
             "assists": 13
         }
     },
     {
         "name": "Emile Smith Rowe",
+        "position": "Midfielder",
+        "number": 10,
+        "personal details" :{
+            "nationality": "England",
+            "date of birth": "28/07/2000",
+            "height": "182cm"
+        },
+        "premier league record": {
+            "appearances": 67,
+            "clean sheets": "N/A",
+            "goals": 12,
+            "assists": 8
+        }
+    },
+    {
+        "name": "Jorginho",
+        "position": "Midfielder",
+        "number": 20,
+        "personal details" :{
+            "nationality": "Italy",
+            "date of birth": "20/12/1991",
+            "height": "180cm"
+        },
+        "premier league record": {
+            "appearances": 157,
+            "clean sheets": "N/A",
+            "goals": 21,
+            "assists": 6
+        }
+    },
+    {
+        "name": "Fábio Vieira",
+        "position": "Midfielder",
+        "number": 21,
+        "personal details" :{
+            "nationality": "Portugal",
+            "date of birth": "30/05/2000",
+            "height": "170cm"
+        },
+        "premier league record": {
+            "appearances": 22,
+            "clean sheets": "N/A",
+            "goals": 1,
+            "assists": 2
+        }
+    },
+    {
+        "name": "Mohamed Elneny",
+        "position": "Midfielder",
+        "number": 23,
+        "personal details" :{
+            "nationality": "Egypt",
+            "date of birth": "11/07/1992",
+            "height": "179cm"
+        },
+        "premier league record": {
+            "appearances": 88,
+            "clean sheets": "N/A",
+            "goals": 1,
+            "assists": 5
+        }
+    },
+    {
+        "name": "Oleksandr Zinchenko",
+        "position": "Midfielder",
+        "number": 35,
+        "personal details" :{
+            "nationality": "Ukraine",
+            "date of birth": "15/12/1996",
+            "height": "175cm"
+        },
+        "premier league record": {
+            "appearances": 103,
+            "clean sheets": "N/A",
+            "goals": 1,
+            "assists": 9 
+        }
+    },
+    {
+        "name": "Kai Havertz",
+        "position": "Midfielder",
+        "number": 29,
+        "personal details" :{
+            "nationality": "Germany",
+            "date of birth": "11/06/1999",
+            "height": "193cm"
+        },
+        "premier league record": {
+            "appearances": 91,
+            "clean sheets": "N/A",
+            "goals": 19,
+            "assists": 7
+        }
+    },
+    {
+        "name": "",
+        "position": "",
+        "number": ,
+        "personal details" :{
+            "nationality": "",
+            "date of birth": "",
+            "height": ""
+        },
+        "premier league record": {
+            "appearances": ,
+            "clean sheets": ,
+            "goals": ,
+            "assists": 
+        }
+    },
+    {
+        "name": "",
+        "position": "",
+        "number": ,
+        "personal details" :{
+            "nationality": "",
+            "date of birth": "",
+            "height": ""
+        },
+        "premier league record": {
+            "appearances": ,
+            "clean sheets": ,
+            "goals": ,
+            "assists": 
+        }
+    },
+    {
+        "name": "",
+        "position": "",
+        "number": ,
+        "personal details" :{
+            "nationality": "",
+            "date of birth": "",
+            "height": ""
+        },
+        "premier league record": {
+            "appearances": ,
+            "clean sheets": ,
+            "goals": ,
+            "assists": 
+        }
+    },
+    {
+        "name": "",
         "position": "",
         "number": ,
         "personal details" :{
