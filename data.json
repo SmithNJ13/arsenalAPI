@@ -304,147 +304,115 @@
         }
     },
     {
-        "name": "",
-        "position": "",
-        "number": ,
+        "name": "Declan Rice",
+        "position": "Midfielder",
+        "number": 41,
         "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
+            "nationality": "England",
+            "date of birth": "14/01/1999",
+            "height": "185cm"
         },
         "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
+            "appearances": 204,
+            "clean sheets": "N/A",
+            "goals": 10,
+            "assists": 10
         }
     },
     {
-        "name": "",
-        "position": "",
-        "number": ,
+        "name": "Gabriel Jesus",
+        "position": "Forward",
+        "number": 9,
         "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
+            "nationality": "Brazil",
+            "date of birth": "03/04/1997",
+            "height": "175cm"
         },
         "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
+            "appearances": 185,
+            "clean sheets": "N/A",
+            "goals": 69,
+            "assists": 35
         }
     },
     {
-        "name": "",
-        "position": "",
-        "number": ,
+        "name": "Gabriel Martinelli",
+        "position": "Forward",
+        "number": 11,
         "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
+            "nationality": "Brazil",
+            "date of birth": "18/06/2001",
+            "height": "178cm"
         },
         "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
+            "appearances": 93,
+            "clean sheets": "N/A",
+            "goals": 26,
+            "assists": 12
         }
     },
     {
-        "name": "",
-        "position": "",
-        "number": ,
+        "name": "Eddie Nketiah",
+        "position": "Forward",
+        "number": 14,
         "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
+            "nationality": "England",
+            "date of birth": "30/05/1999",
+            "height": "175cm"
         },
         "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
+            "appearances": 89,
+            "clean sheets": "N/A",
+            "goals": 14,
+            "assists": 3
         }
     },
     {
-        "name": "",
-        "position": "",
-        "number": ,
+        "name": "Leandro Trossard",
+        "position": "Forward",
+        "number": 19,
         "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
+            "nationality": "Belgium",
+            "date of birth": "04/12/1994",
+            "height": "172cm"
         },
         "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
+            "appearances": 137,
+            "clean sheets": "N/A",
+            "goals": 26,
+            "assists": 23
         }
     },
     {
-        "name": "",
-        "position": "",
-        "number": ,
+        "name": "Reiss Nelson",
+        "position": "Forward",
+        "number": 24,
         "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
+            "nationality": "England",
+            "date of birth": "10/12/1999",
+            "height": "175cm"
         },
         "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
+            "appearances": 34,
+            "clean sheets": "N/A",
+            "goals": 4,
+            "assists": 2
         }
     },
     {
-        "name": "",
-        "position": "",
-        "number": ,
+        "name": "Nicolas Pépé",
+        "position": "Forward",
+        "number": 19,
         "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
+            "nationality": "Cote D'Ivoire",
+            "date of birth": "29/05/1995",
+            "height": "183cm"
         },
         "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
+            "appearances": 80,
+            "clean sheets": "N/A",
+            "goals": 16,
+            "assists": 8
         }
-    },
-    {
-        "name": "",
-        "position": "",
-        "number": ,
-        "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
-        },
-        "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
-        }
-    },
-    {
-        "name": "",
-        "position": "",
-        "number": ,
-        "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
-        },
-        "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
-        }
-    },
+    }
 ]
