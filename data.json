@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Aaron Ramsdale",
+        "position": "Goalkeeper",
+        "number": 1,
+        "personal details" :{
+            "nationality": "England",
+            "date of birth": "14/5/1998",
+            "height": "188cm"
+        },
+        "premier league record": {
+            "appearances": 147,
+            "clean sheets": 36,
+            "goals": 0,
+            "assists": 1
+        }
+    },
+    {
+        "name": "Kieran Tierney",
+        "position": "Defender",
+        "number": 3,
+        "personal details" :{
+            "nationality": "Scotland",
+            "date of birth": "05/6/1997",
+            "height": "178cm"
+        },
+        "premier league record": {
+            "appearances": 91,
+            "clean sheets": 3,
+            "goals": 8,
+            "assists": 19 
+        }
+    },
+    {
+        "name": "Ben White",
+        "position": "Defender",
+        "number": 4,
+        "personal details" :{
+            "nationality": "England",
+            "date of birth": "08/10/1997",
+            "height": "186cm"
+        },
+        "premier league record": {
+            "appearances": 106,
+            "clean sheets": 2,
+            "goals": 5,
+            "assists": 33 
+        }
+    },
+    {
+        "name": "",
+        "position": "",
+        "number": ,
+        "personal details" :{
+            "nationality": "",
+            "date of birth": "",
+            "height": ""
+        },
+        "premier league record": {
+            "appearances": ,
+            "clean sheets": ,
+            "goals": ,
+            "assists": 
+        }
+    },
+    {
+        "name": "",
+        "position": "",
+        "number": ,
+        "personal details" :{
+            "nationality": "",
+            "date of birth": "",
+            "height": ""
+        },
+        "premier league record": {
+            "appearances": ,
+            "clean sheets": ,
+            "goals": ,
+            "assists": 
+        }
+    },
+    {
+        "name": "",
+        "position": "",
+        "number": ,
+        "personal details" :{
+            "nationality": "",
+            "date of birth": "",
+            "height": ""
+        },
+        "premier league record": {
+            "appearances": ,
+            "clean sheets": ,
+            "goals": ,
+            "assists": 
+        }
+    },
+    {
+        "name": "",
+        "position": "",
+        "number": ,
+        "personal details" :{
+            "nationality": "",
+            "date of birth": "",
+            "height": ""
+        },
+        "premier league record": {
+            "appearances": ,
+            "clean sheets": ,
+            "goals": ,
+            "assists": 
+        }
+    },
+    {
+        "name": "",
+        "position": "",
+        "number": ,
+        "personal details" :{
+            "nationality": "",
+            "date of birth": "",
+            "height": ""
+        },
+        "premier league record": {
+            "appearances": ,
+            "clean sheets": ,
+            "goals": ,
+            "assists": 
+        }
+    },
+    {
+        "name": "",
+        "position": "",
+        "number": ,
+        "personal details" :{
+            "nationality": "",
+            "date of birth": "",
+            "height": ""
+        },
+        "premier league record": {
+            "appearances": ,
+            "clean sheets": ,
+            "goals": ,
+            "assists": 
+        }
+    },
+]
