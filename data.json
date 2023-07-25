@@ -132,67 +132,67 @@
         "position": "Defender",
         "number": 17,
         "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
+            "nationality": "Portugal",
+            "date of birth": "31/08/1991",
+            "height": "172cm"
         },
         "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
+            "appearances": 164,
+            "clean sheets": 3,
+            "goals": 13,
+            "assists": 33
         }
     },
     {
-        "name": "",
-        "position": "",
-        "number": ,
+        "name": "Nuno Tavares",
+        "position": "Defender",
+        "number": 20,
         "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
+            "nationality": "Portugal",
+            "date of birth": "26/01/2000",
+            "height": "183cm"
         },
         "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
+            "appearances": 22,
+            "clean sheets": 1,
+            "goals": 1,
+            "assists": 3
         }
     },
     {
-        "name": "",
-        "position": "",
-        "number": ,
+        "name": "Thomas Partey",
+        "position": "Midfielder",
+        "number": 5,
         "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
+            "nationality": "Ghana",
+            "date of birth": "13/06/1993",
+            "height": "185cm"
         },
         "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
+            "appearances": 81,
+            "clean sheets": "N/A",
+            "goals": 5,
+            "assists": 3 
         }
     },
     {
-        "name": "",
-        "position": "",
-        "number": ,
+        "name": "Bukayo Saka",
+        "position": "Midfielder",
+        "number": 7,
         "personal details" :{
-            "nationality": "",
-            "date of birth": "",
-            "height": ""
+            "nationality": "England",
+            "date of birth": "05/09/2001",
+            "height": "178cm"
         },
         "premier league record": {
-            "appearances": ,
-            "clean sheets": ,
-            "goals": ,
-            "assists": 
+            "appearances": 135,
+            "clean sheets": "N/A",
+            "goals": 31,
+            "assists": 26
         }
     },
     {
-        "name": "",
+        "name": "Martin Ødegaard",
         "position": "",
         "number": ,
         "personal details" :{
