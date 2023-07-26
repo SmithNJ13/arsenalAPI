@@ -58,3 +58,12 @@ app.get("/:id", (req, res) => {
 })
 
 
+// example of how I might do it incase I don't finish it, could potentially use method above with "/:id/*" and a recursive loop to get user to add specific details to a player????
+app.post("/:id", (req, res) => {
+  console.log("line 61: ", req.body);
+  const newPlayer = req.body;
+  players.push(newPlayer);
+  console.log(res.status(201).send(newPlayer));
+})
+
+
